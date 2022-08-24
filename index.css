@@ -1,0 +1,216 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image: url(images/home-bg.png);
+}
+.menubar{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    display: flex;
+    justify-content: end;
+    
+}
+h3{
+    margin-left: 27px;
+    padding: 17px;
+}
+/* home part */
+.home{
+    display: flex;
+    background-color: black;
+    
+}
+.main-home{
+    margin-left: 40px;
+    padding: 10px;
+}
+.home-h3{
+    color: red;
+    font-size: 30px;
+    text-align: start;
+}
+.home-h1{
+    color: white;
+    font-size: 70px;
+    text-align: start;
+}
+.home-h4{
+    color: white;
+    font-size: 30px;
+    text-align: start;
+}
+.home-button{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 8px;
+}
+.home-img{
+    margin-left: 50px;
+    width: 600px;
+    height: 500px;
+}
+
+
+h1{
+    text-align: center;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+.section-two{
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+/* card-------------- */
+.card-1{
+    border: 1px solid gray;
+    
+    box-shadow: 10px 12px 8px gray;
+    margin: 15px;
+    padding: 40px;
+
+}
+.card-img{
+    margin-left: 70px;
+}
+.card-text{
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    text-align: justify;
+}
+
+/* about ----------------------*/
+.about{
+    background-color: black;
+   
+}
+.about-h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.main-about{
+    background-color: black;
+    display: flex;
+    height: 687px;
+}
+.about-text{
+margin-left: 60px;
+color: white;
+justify-content: center;
+margin-top: 20px;
+padding: 15px;
+border-top: 1px solid white;
+}
+.a-btn{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 25px;
+    border-radius:6px ;
+    margin-right: 100px;
+    margin: 6px;
+    
+}
+
+.about-img-one{
+    width: 300px;
+    height: 700px;
+    margin-left: 180px;
+    clip-path: polygon(0 15%, 100% 0%, 100% 80%, 0% 100%);
+    
+    
+}
+.about-img-two{
+    width: 300px;
+    height: 700px;
+    margin-right: 30px;
+    clip-path: polygon(0 27%, 99% 7%, 97% 71%, 0 100%);
+    
+}
+.a-h2{
+font-size: 45px;
+}
+.a-p{
+    font-size: 25px;
+}
+li{
+    font-size: 23px;
+}
+
+/* image */
+.img-section{
+   background-image: url('images/shape/Group_33094_1.png');
+}
+.main-img-sec{
+    width: 700px;
+    height: 200px;
+
+}
+/* service---------------------- */
+.s-card{
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 120px;
+}
+.s-1{
+border: 1px solid gray;
+box-shadow: 10px 12px 12px gray;
+margin-left: 30px;
+
+}
+.s-img{
+width: 350px;
+
+}
+.s1-text{
+    text-align: start;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 20px;
+}
+.s-p{
+    color: red;
+    font-size: 25px;
+}
+
+/* footer---------------- */
+.f-div{
+    display: flex;
+    justify-content: center;
+
+    font-size: 20px;
+    
+    color: black;
+    margin-top: 70px;
+    
+}
+p{
+    margin-left: 13px;
+    padding: 7px;
+    font-weight: 130;
+}
+small{
+    color: black;
+    text-align: center;
+    margin-left: 580px;
+    margin-bottom: 300px;
+    font-size: 16px;
+}
+span{
+    color: red;
+}
+.container-one{
+    margin-bottom: 130px;
+}
